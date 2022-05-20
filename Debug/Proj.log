@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Core.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\andreeapurta\Desktop\ProiectGrafica_Carte_necomentat\ProiectGrafica_Carte\Core.cpp(151): warning C4715: 'SkyBox': not all control paths return a value
+  Proj.vcxproj -> C:\Users\andreeapurta\Desktop\ProiectGrafica_Carte_necomentat\ProiectGrafica_Carte\Debug\Proj.exe
